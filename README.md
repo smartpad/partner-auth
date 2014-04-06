@@ -1,4 +1,4 @@
 partner-service
 ===============
 
-Webservice for partner site.
+Server auth for partner site.
